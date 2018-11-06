@@ -8,8 +8,10 @@ In this competition, your goal is to correctly identify digits from a dataset of
 # Results
 Model used : Convolutional Neural Networks
 
-Training accuracy : 0.9997
+Training Accuracy : 0.9997
+
+Training Loss : 0.0017
 
 Test Error : 0.64
 
-## Kaggle's Score: 0.99871
+## Kaggle Score: 0.99871
