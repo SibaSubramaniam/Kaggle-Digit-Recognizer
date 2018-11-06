@@ -8,6 +8,8 @@ In this competition, your goal is to correctly identify digits from a dataset of
 # Results
 Model used : Convolutional Neural Networks
 
+Framework used : Keras
+
 Training Accuracy : 0.9997
 
 Training Loss : 0.0017
